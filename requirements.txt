@@ -1,0 +1,8 @@
+torch
+networkx
+snntorch
+scipy
+rich
+textual
+numpy
+matplotlib
